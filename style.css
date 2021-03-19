@@ -145,6 +145,14 @@ h2 {
         padding: 5px;
         margin: 5px;
     }
+
+    .winner {
+        background-color: rgba(11, 124, 30, 0.3);
+    }
+    
+    .loser {
+        background-color:rgba(124, 3, 3, 0.3);
+    }
 }
 
 

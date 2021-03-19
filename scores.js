@@ -120,53 +120,70 @@ $(".shea").append(shea);
 
 var participants = 17;
 
-var fla1 = participants/8
-var vt1 = participants/3
-var ark1 = participants/15
-var ill1 = participants/15
-var tt1 = participants/4
-var utst1 = participants/7
-var oral1 = participants/1
-var ohst1 = participants/14
-var bay1 = participants/15
-var gt1 = participants/7
-var lc1 = participants/4
-var orst1 = participants/4
-var tenn1 = participants/8
-var lib1 = participants/3
-var okst1 = participants/15
-var wisc1 = participants/15
-var unc1 = participants/4
-var clev1 = participants/7
-var hou1 = participants/1
-var ntex1 = participants/14
-var pur1 = participants/15
-var rut1 = participants/7
-var clem1 = participants/4
-var syra1 = participants/4
-var sdst1 = participants/8
-var mst1 = participants/3
-var wvir1 = participants/15
-var win1 = participants/15
-var vill1 = participants/4
+var fla1 = participants/11
+var vt1 = participants/6
 
-var davidScore = 0;
-var daveScore = 0;
-var aprilScore = 0;
-var calebScore = 0;
-var ethanScore = 0;
-var rachelScore = 0;
-var hyrumScore = 0;
-var leviScore = 0;
-var paigeScore = 0;
-var mattScore = 0;
-var reedScore = 0;
-var katieScore = 0;
-var noahScore = 0;
-var dennisScore = 0;
-var susanScore = 0;
-var suzyScore = 0;
-var sheaScore = 0;
+var ark1 = participants/15
+var col1 = participants/2
+
+var ill1 = participants/16
+var drex1 = participants/1
+
+var tt1 = participants/5
+var utst1 = participants/12
+
+var oral1 = participants/1
+var ohst1 = participants/16
+
+var bay1 = participants/17
+
+var gt1 = participants/9
+var lc1 = participants/8
+
+var orst1 = participants/7
+var tenn1 = participants/10
+
+var lib1 = participants/3
+var okst1 = participants/14
+
+var wisc1 = participants/9
+var unc1 = participants/8
+
+var clev1 = participants/2
+var hou1 = participants/15
+
+var ntex1 = participants/4
+var pur1 = participants/13
+
+var rut1 = participants/5
+var clem1 = participants/12
+
+var syra1 = participants/8
+var sdst1 = participants/9
+
+var mst1 = participants/4
+var wvir1 = participants/13
+
+var win1 = participants/4
+var vill1 = participants/13
+
+var davidScore = fla1;
+var daveScore = vt1;
+var aprilScore = fla1;
+var calebScore = vt1;
+var ethanScore = fla1;
+var rachelScore = vt1;
+var hyrumScore = fla1;
+var leviScore = fla1;
+var paigeScore = fla1;
+var mattScore = vt1;
+var reedScore = fla1;
+var katieScore = fla1;
+var noahScore = fla1;
+var dennisScore = vt1;
+var susanScore = fla1;
+var suzyScore = vt1;
+var sheaScore = fla1;
 
 $("#davidScore").text(davidScore);
 $("#dennisScore").text(dennisScore);
