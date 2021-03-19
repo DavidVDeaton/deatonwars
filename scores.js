@@ -126,10 +126,7 @@ var vt1 = 0;
 var ark1 = participants/15;
 var col1 = 0;
 
-// var ill1 = participants/16;
-// var drex1 = participants/1;
-
-var ill1 = 0;
+var ill1 = participants/16;
 var drex1 = 0;
 
 var tt1 = participants/5;
