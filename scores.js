@@ -135,8 +135,7 @@ var utst1 = 0;
 var oral1 = participants/1;
 var ohst1 = 0;
 
-// var bay1 = participants/17;
-var bay1 = 0;
+var bay1 = participants/17;
 
 var gt1 = participants/9;
 var lc1 = participants/8;
