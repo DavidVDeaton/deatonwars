@@ -73,13 +73,13 @@ var susan = $("<img>", {
 var hyrum = $("<img>", {
     class: "med-circle",
     alt: "Hyrum",
-    src: "assets/profile/hyrum.jpg"
+    src: "assets/profile/hyrum2.jpg"
 });
 
 var levi = $("<img>", {
     class: "med-circle",
     alt: "Levi",
-    src: "assets/profile/levi.png"
+    src: "assets/profile/levi2.jpg"
 });
 
 var rachel = $("<img>", {

@@ -145,13 +145,13 @@ var susan = $("<img>", {
 var hyrum = $("<img>", {
     class: "small-circle",
     alt: "Hyrum",
-    src: "assets/profile/hyrum.jpg"
+    src: "assets/profile/hyrum2.jpg"
 });
 
 var levi = $("<img>", {
     class: "small-circle",
     alt: "Levi",
-    src: "assets/profile/levi.png"
+    src: "assets/profile/levi2.jpg"
 });
 
 var rachel = $("<img>", {
@@ -160,11 +160,23 @@ var rachel = $("<img>", {
     src: "assets/profile/rachel.jpg"
 });
 
+var shea = $("<img>", {
+    class: "small-circle",
+    alt: "Shea",
+    src: "assets/profile/shea.png"
+});
+
+var suzy = $("<img>", {
+    class: "small-circle",
+    alt: "Suzy",
+    src: "assets/profile/suzy.jpg"
+});
+
 $(".david").append(david);
-// $(".dave").append(dave);
-// $(".april").append(april);
-// $(".caleb").append(caleb);
-// $(".ethan").append(ethan);
+$(".dave").append(dave);
+$(".april").append(april);
+$(".caleb").append(caleb);
+$(".ethan").append(ethan);
 $(".katie").append(katie);
 $(".matt").append(matt);
 $(".paige").append(paige);
@@ -175,3 +187,5 @@ $(".susan").append(susan);
 $(".hyrum").append(hyrum);
 $(".rachel").append(rachel);
 $(".levi").append(levi);
+$(".shea").append(shea);
+$(".suzy").append(suzy);
