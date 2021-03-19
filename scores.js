@@ -167,23 +167,23 @@ var wvir1 = participants/13
 var win1 = participants/4
 var vill1 = participants/13
 
-var davidScore = fla1;
-var daveScore = vt1;
-var aprilScore = fla1;
-var calebScore = vt1;
-var ethanScore = fla1;
-var rachelScore = vt1;
-var hyrumScore = fla1;
-var leviScore = fla1;
-var paigeScore = fla1;
-var mattScore = vt1;
-var reedScore = fla1;
-var katieScore = fla1;
-var noahScore = fla1;
-var dennisScore = vt1;
-var susanScore = fla1;
-var suzyScore = vt1;
-var sheaScore = fla1;
+var davidScore = fla1 + ark1 + ill1;
+var daveScore = vt1 + col1 + ill1;
+var aprilScore = fla1 + ark1 + ill1;
+var calebScore = vt1 + col1 + ill1;
+var ethanScore = fla1 + ark1 + ill1;
+var rachelScore = vt1 + ark1 + ill1;
+var hyrumScore = fla1 + ark1 + ill1;
+var leviScore = fla1 + ark1 + ill1;
+var paigeScore = fla1 + ark1 + ill1;
+var mattScore = vt1 + ark1 + ill1;
+var reedScore = fla1 + ark1 + ill1;
+var katieScore = fla1 + ark1 + ill1;
+var noahScore = fla1 + ark1 + ill1;
+var dennisScore = vt1 + ark1 + ill1;
+var susanScore = fla1 + ark1 + ill1;
+var suzyScore = vt1 + ark1 + drex1;
+var sheaScore = fla1 + ark1 + ill1;
 
 $("#davidScore").text(davidScore);
 $("#dennisScore").text(dennisScore);
