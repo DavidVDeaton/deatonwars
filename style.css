@@ -1,0 +1,153 @@
+body {
+    display: grid;
+    place-items: center;
+    background-image: url("assets/basketball.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: seashell;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+nav {
+    width:100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    place-items: center;
+    border-bottom: solid;
+}
+
+main {
+    width: 100%;
+    display: grid;
+    grid-template-rows: auto auto auto auto;
+    place-items: center;
+}
+
+.small-circle {
+    border-radius:100%;
+    width:60px;
+    height: 60px;
+    object-fit: cover;
+    object-position: center top;
+    border: 3px solid rgba(0,0,0,.1);
+    justify-self: start;
+}
+
+.med-circle {
+    border-radius:100%;
+    width:80px;
+    height: 80px;
+    object-fit: cover;
+    object-position: center top;
+    border: 3px solid rgba(0,0,0,.1);
+    justify-self: start;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
+}
+
+h1 {
+    width: 100%;
+    display: grid;
+    place-items: center;
+}
+
+h2 {
+    display: grid;
+    place-items: center;
+}
+
+.hidden {
+    display: block;
+}
+
+.gm1, .gm2, .gm3, .gm4, .gm5, .gm6, .gm7, .gm8, .gm9, .gm10, .gm11, .gm12, .gm13, .gm14, .gm15, .gm16 {
+    display: block;
+    padding: 8px;
+    width: 80%;
+    place-items: center;
+}
+
+.gm20 {
+    display: block;
+    padding: 8px;
+    width: 30%;
+    place-items: center;
+}
+
+.game {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.scores {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}   
+
+.away {
+    border: solid;
+    padding: 5px;
+    margin: 5px;
+}
+
+.home {
+    border: solid;
+    padding: 5px;
+    margin: 5px;
+}
+
+.winner {
+    border-color: green;
+}
+
+.loser {
+    border-color: red;
+}
+
+@media only screen and (max-width:600px) {
+
+    .gm20 {
+        display: block;
+        padding: 8px;
+        width: 80%;
+        place-items: center;
+    }
+
+    .med-circle {
+        border-radius:100%;
+        width:60px;
+        height: 60px;
+        object-fit: cover;
+        object-position: center top;
+        border: 3px solid rgba(0,0,0,.1);
+        justify-self: start;
+    }
+
+    .game {
+        display: block;
+        column-width: 100%;
+        border: solid;
+    }
+
+    .away {
+        border: none;
+        padding: 5px;
+        margin: 5px;
+    }
+    
+    .home {
+        border: none;
+        padding: 5px;
+        margin: 5px;
+    }
+}
+
+
+
+
+
