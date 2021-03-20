@@ -142,7 +142,7 @@ var kan1 = participants/15;
 var lsu1 = participants/13;
 var mich1 = participants/17;
 var ucsb1 = 0;
-var crei1 = 0;
+var crei1 = participants/10;
 var bama1 = 0;
 
 var davidScore = 
