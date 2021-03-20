@@ -121,69 +121,41 @@ $(".shea").append(shea);
 var participants = 17;
 
 var fla1 = participants/11;
-var vt1 = 0;
-
 var ark1 = participants/15;
-var col1 = 0;
-
 var ill1 = participants/16;
-var drex1 = 0;
-
 var tt1 = participants/5;
-var utst1 = 0;
-
 var oral1 = participants/1;
-var ohst1 = 0;
-
 var bay1 = participants/17;
-
 var lc1 = participants/8;
-var gt1 = 0;
-
 var orst1 = participants/7;
-var tenn1 = 0;
-
-var lib1 = 0;
 var okst1 = participants/14;
-
 var wisc1 = participants/9;
-var unc1 = 0;
-
-var clev1 = 0;
 var hou1 = participants/15;
-
 var ntex1 = participants/4;
-var pur1 = 0;
-
 var rut1 = participants/5;
-var clem1 = 0;
-
 var syra1 = participants/8;
-var sdst1 = 0;
-
-var mst1 = 0;
 var wvir1 = participants/13;
-
-var win1 = 0;
 var vill1 = participants/13;
+var col1 = participants/12;
 
-var davidScore = fla1 + ark1 + ill1 + utst1 + bay1 + ohst1 + gt1 + tenn1 + okst1 + wisc1 + hou1 + pur1 + clem1 + syra1 + wvir1 + vill1;
-var daveScore = vt1 + col1 + ill1 + utst1 + bay1 + ohst1 + lc1 + tenn1 + okst1 + wisc1 + hou1 + pur1 + clem1 + syra1 + mst1 + vill1;
-var aprilScore = fla1 + ark1 + ill1 + tt1 + bay1 + ohst1 + lc1 + tenn1 + okst1 + wisc1 + hou1 + pur1 + clem1 + syra1 + wvir1 + vill1;
-var calebScore = vt1 + col1 + ill1 + utst1 + bay1 + ohst1 + lc1 + orst1 + okst1 + unc1 + hou1 + ntex1 + rut1 + sdst1 + mst1 + win1;
-var ethanScore = fla1 + ark1 + ill1 + utst1 + bay1 + ohst1 + gt1 + orst1 + okst1 + unc1 + hou1 + pur1 + clem1 + sdst1 + wvir1 + vill1;
-var rachelScore = vt1 + ark1 + ill1 + utst1 + bay1 + ohst1 + gt1 + tenn1 + okst1 + wisc1 + hou1 + pur1 + rut1 + syra1 + wvir1 + vill1;
-var hyrumScore = fla1 + ark1 + ill1 + tt1 + bay1 + ohst1 + lc1 + tenn1 + okst1 + unc1 + hou1 + pur1 + clem1 + sdst1 + wvir1 + vill1;
-var paigeScore = fla1 + ark1 + ill1 + utst1 + bay1 + ohst1 + gt1 + orst1 + lib1 + unc1 + hou1 + ntex1 + clem1 + syra1 + wvir1 + vill1;
-var mattScore = vt1 + ark1 + ill1 + tt1 + bay1 + ohst1 + gt1 + tenn1 + lib1 + unc1 + hou1 + ntex1 + rut1 + sdst1 + wvir1 + vill1;
-var reedScore = fla1 + ark1 + ill1 + tt1 + bay1 + oral1 + gt1 + orst1 + okst1 + wisc1 + hou1 + pur1 + clem1 + sdst1 + mst1 + win1;
-var katieScore = fla1 + ark1 + ill1 + utst1 + bay1 + ohst1 + gt1 + tenn1 + okst1 + wisc1 + hou1 + pur1 + rut1 + syra1 + wvir1 + vill1;
-var noahScore = fla1 + ark1 + ill1 + tt1 + bay1 + ohst1 + lc1 + tenn1 + okst1 + unc1 + hou1 + pur1 + clem1 + sdst1 + wvir1 + vill1;
-var dennisScore = vt1 + ark1 + ill1 + utst1 + bay1 + ohst1 + lc1 + tenn1 + okst1 + wisc1 + hou1 + pur1 + rut1 + syra1 + mst1 + win1;
-var susanScore = fla1 + ark1 + ill1 + utst1 + bay1 + ohst1 + lc1 + orst1 + okst1 + unc1 + hou1 + pur1 + clem1 + sdst1 + wvir1 + vill1;
-var suzyScore = vt1 + ark1 + drex1 + utst1 + bay1 + ohst1 + lc1 + orst1 + lib1 + wisc1 + clev1 + pur1 + clem1 + syra1 + wvir1 + win1;
-var sheaScore = fla1 + ark1 + ill1 + utst1 + bay1 + ohst1 + gt1 + tenn1 + okst1 + unc1+ hou1 + pur1 + clem1 + sdst1 + wvir1 + vill1;
-var leviScore = fla1 + ark1 + ill1 + utst1 + bay1 + ohst1 + gt1 + orst1 + okst1 + wisc1 + clev1 + ntex1 + clem1 + sdst1 + wvir1 + vill1;
+var davidScore = fla1 + ark1 + ill1 + bay1 + okst1 + wisc1 + hou1 + syra1 + wvir1 + vill1 + col1;
+var daveScore =  ill1 + bay1 + lc1 + okst1 + wisc1 + hou1 + syra1 + vill1 + col1;
+var aprilScore = fla1 + ark1 + ill1 + tt1 + bay1 + lc1 + okst1 + wisc1 + hou1 + syra1 + wvir1 + vill1 + col1;
+var calebScore =  ill1 + bay1 + lc1 + orst1 + okst1 + hou1 + ntex1 + rut1;
+var ethanScore = fla1 + ark1 + ill1 + bay1 + orst1 + okst1 + hou1 + wvir1 + vill1;
+var rachelScore = ark1 + ill1 + bay1 + okst1 + wisc1 + hou1 + rut1 + syra1 + wvir1 + vill1;
+var hyrumScore = fla1 + ark1 + ill1 + tt1 + bay1 + lc1 + okst1 + hou1 + wvir1 + vill1 + col1;
+var paigeScore = fla1 + ark1 + ill1 + bay1 + orst1 + hou1 + ntex1 + syra1 + wvir1 + vill1 + col1;
+var mattScore =  ark1 + ill1 + tt1 + bay1 + hou1 + ntex1 + rut1 + wvir1 + vill1;
+var reedScore = fla1 + ark1 + ill1 + tt1 + bay1 + oral1 + orst1 + okst1 + wisc1 + hou1 + col1;
+var katieScore = fla1 + ark1 + ill1 + bay1 + okst1 + wisc1 + hou1 + rut1 + syra1 + wvir1 + vill1 + col1;
+var noahScore = fla1 + ark1 + ill1 + tt1 + bay1 + lc1 + okst1 + hou1 + wvir1 + vill1 + col1;
+var dennisScore = ark1 + ill1 + bay1 + lc1 + okst1 + wisc1 + hou1 + rut1 + syra1 + col1;
+var susanScore = fla1 + ark1 + ill1 + bay1 + lc1 + orst1 + okst1 + hou1 + wvir1 + vill1 + col1;
+var suzyScore = ark1 + bay1 +  + lc1 + orst1 + wisc1 + syra1 + wvir1 + col1;
+var sheaScore = fla1 + ark1 + ill1 + bay1 + okst1 + hou1 + wvir1 + vill1 + col1;
+var leviScore = fla1 + ark1 + ill1 + bay1 + orst1 + okst1 + wisc1 + ntex1 + wvir1 + vill1;
+
 
 var ndavid = davidScore.toFixed(2);
 var ndennis = dennisScore.toFixed(2);
