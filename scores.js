@@ -143,7 +143,7 @@ var lsu1 = participants/13;
 var mich1 = participants/17;
 var ucsb1 = 0;
 var crei1 = participants/10;
-var bama1 = 0;
+var bama1 = participants/17;
 
 var davidScore = 
 fla1 + ark1 + ill1 + bay1 + okst1 + wisc1 + hou1 + syra1 + wvir1 + vill1 + col1 + flst1 + lsu1 + mich1 + bama1 + ucsb1;
