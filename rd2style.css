@@ -89,12 +89,12 @@
     background-position-x: center;    
 }
 
-/* #h14 {
-    background-image: url("assets/sdst.png");
+#h14 {
+    background-image: url("assets/zags.png");
     background-repeat: no-repeat;
     background-size: contain;
     background-position-x: center;    
-} */
+}
 
 #h15 {
     background-image: url("assets/creighton.png");
@@ -103,12 +103,12 @@
     background-position-x: center;    
 }
 
-/* #h16 {
-    background-image: url("assets/nova.png");
+#h16 {
+    background-image: url("assets/ucla.png");
     background-repeat: no-repeat;
     background-size: contain;
     background-position-x: center;    
-} */
+}
 
 #a1 {
     background-image: url("assets/loyola.png");
@@ -201,12 +201,12 @@
     background-position-x: center;    
 }
 
-/* #a14 {
-    background-image: url("assets/syracuse.png");
+#a14 {
+    background-image: url("assets/oklahoma.png");
     background-repeat: no-repeat;
     background-size: contain;
     background-position-x: center;    
-} */
+}
 
 #a15 {
     background-image: url("assets/ohio.png");
@@ -215,9 +215,9 @@
     background-position-x: center;    
 }
 
-/* #a16 {
-    background-image: url("assets/winthrop.png");
+#a16 {
+    background-image: url("assets/abilene.png");
     background-repeat: no-repeat;
     background-size: contain;
     background-position-x: center;    
-} */
+}
