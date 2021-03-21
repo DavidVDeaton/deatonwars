@@ -146,41 +146,50 @@ var crei1 = participants/10;
 var bama1 = participants/17;
 var usc1 = participants/11;
 var drake1 = 0;
+var iowa1 = participants/14;
+var mary1 = 0;
+var conn1 = 0;
+var ohio = 0;
+var vir1 = 0;
+var miss1 = 0;
+var ou = 0;
+var ore1 = participants/12;
+
 
 var davidScore = 
-fla1 + ark1 + ill1 + bay1 + okst1 + wisc1 + hou1 + syra1 + wvir1 + vill1 + col1 + flst1 + lsu1 + mich1 + bama1 + ucsb1 + usc1;
+fla1 + ark1 + ill1 + bay1 + okst1 + wisc1 + hou1 + syra1 + wvir1 + vill1 + col1 + flst1 + lsu1 + mich1 + bama1 + ucsb1 + usc1 + iowa1 + ore1;
 var daveScore =  
-ill1 + bay1 + lc1 + okst1 + wisc1 + hou1 + syra1 + vill1 + col1 + kan1 + lsu1 + mich1 + bama1 + ucsb1 + usc1;
+ill1 + bay1 + lc1 + okst1 + wisc1 + hou1 + syra1 + vill1 + col1 + kan1 + lsu1 + mich1 + bama1 + ucsb1 + usc1 + iowa1;
 var aprilScore = 
-fla1 + ark1 + ill1 + tt1 + bay1 + lc1 + okst1 + wisc1 + hou1 + syra1 + wvir1 + vill1 + col1 + kan1 + lsu1 + mich1 + bama1 + crei1 + drake1;
+fla1 + ark1 + ill1 + tt1 + bay1 + lc1 + okst1 + wisc1 + hou1 + syra1 + wvir1 + vill1 + col1 + kan1 + lsu1 + mich1 + bama1 + crei1 + drake1 + iowa1 + ore1;
 var calebScore =  
-ill1 + bay1 + lc1 + orst1 + okst1 + hou1 + ntex1 + rut1 + flst1 + kan1 + mich1 + bama1 + crei1 + drake1;
+ill1 + bay1 + lc1 + orst1 + okst1 + hou1 + ntex1 + rut1 + flst1 + kan1 + mich1 + bama1 + crei1 + drake1 + iowa1;
 var ethanScore = 
-fla1 + ark1 + ill1 + bay1 + orst1 + okst1 + hou1 + wvir1 + vill1 + kan1 + mich1 + bama1 + ucsb1 + drake1;
+fla1 + ark1 + ill1 + bay1 + orst1 + okst1 + hou1 + wvir1 + vill1 + kan1 + mich1 + bama1 + ucsb1 + drake1 + iowa1 + ore1;
 var rachelScore = 
-ark1 + ill1 + bay1 + okst1 + wisc1 + hou1 + rut1 + syra1 + wvir1 + vill1 + flst1 + kan1 + lsu1 + mich1 + bama1 + crei1 + drake1;
+ark1 + ill1 + bay1 + okst1 + wisc1 + hou1 + rut1 + syra1 + wvir1 + vill1 + flst1 + kan1 + lsu1 + mich1 + bama1 + crei1 + drake1 + iowa1 + ore1;
 var hyrumScore = 
-fla1 + ark1 + ill1 + tt1 + bay1 + lc1 + okst1 + hou1 + wvir1 + vill1 + col1 + flst1 + kan1 + lsu1 + mich1 + bama1 + crei1 + usc1;
+fla1 + ark1 + ill1 + tt1 + bay1 + lc1 + okst1 + hou1 + wvir1 + vill1 + col1 + flst1 + kan1 + lsu1 + mich1 + bama1 + crei1 + usc1 + iowa1 + ore1;
 var paigeScore = 
-fla1 + ark1 + ill1 + bay1 + orst1 + hou1 + ntex1 + syra1 + wvir1 + vill1 + col1 + kan1 + lsu1 + mich1 + bama1 + ucsb1 + usc1;
+fla1 + ark1 + ill1 + bay1 + orst1 + hou1 + ntex1 + syra1 + wvir1 + vill1 + col1 + kan1 + lsu1 + mich1 + bama1 + ucsb1 + usc1 + iowa1 + ore1;
 var mattScore =  
 ark1 + ill1 + tt1 + bay1 + hou1 + ntex1 + rut1 + wvir1 + vill1 + flst1 + kan1 + mich1 + bama1 + crei1 + usc1;
 var reedScore = 
-fla1 + ark1 + ill1 + tt1 + bay1 + oral1 + orst1 + okst1 + wisc1 + hou1 + col1 + flst1 + kan1 + lsu1 + mich1 + bama1 + ucsb1 + usc1;
+fla1 + ark1 + ill1 + tt1 + bay1 + oral1 + orst1 + okst1 + wisc1 + hou1 + col1 + flst1 + kan1 + lsu1 + mich1 + bama1 + ucsb1 + usc1 + iowa1;
 var katieScore = 
-fla1 + ark1 + ill1 + bay1 + okst1 + wisc1 + hou1 + rut1 + syra1 + wvir1 + vill1 + col1 + flst1 + kan1 + lsu1 + mich1 + bama1 + crei1 + usc1;
+fla1 + ark1 + ill1 + bay1 + okst1 + wisc1 + hou1 + rut1 + syra1 + wvir1 + vill1 + col1 + flst1 + kan1 + lsu1 + mich1 + bama1 + crei1 + usc1 + iowa1 + ore1;
 var noahScore = 
-fla1 + ark1 + ill1 + tt1 + bay1 + lc1 + okst1 + hou1 + wvir1 + vill1 + col1 + flst1 + kan1 + lsu1 + mich1 + bama1 + crei1 + usc1;
+fla1 + ark1 + ill1 + tt1 + bay1 + lc1 + okst1 + hou1 + wvir1 + vill1 + col1 + flst1 + kan1 + lsu1 + mich1 + bama1 + crei1 + usc1 + iowa1 + ore1;
 var dennisScore = 
-ark1 + ill1 + bay1 + lc1 + okst1 + wisc1 + hou1 + rut1 + syra1 + col1 + flst1 + kan1 + lsu1 + mich1 + bama1 + crei1 + drake1;
+ark1 + ill1 + bay1 + lc1 + okst1 + wisc1 + hou1 + rut1 + syra1 + col1 + flst1 + kan1 + lsu1 + mich1 + bama1 + crei1 + drake1 + iowa1 + ore1;
 var susanScore = 
-fla1 + ark1 + ill1 + bay1 + lc1 + orst1 + okst1 + hou1 + wvir1 + vill1 + col1 + flst1 + kan1 + lsu1 + mich1 + bama1 + crei1 + usc1;
+fla1 + ark1 + ill1 + bay1 + lc1 + orst1 + okst1 + hou1 + wvir1 + vill1 + col1 + flst1 + kan1 + lsu1 + mich1 + bama1 + crei1 + usc1 + ore1;
 var suzyScore = 
-ark1 + bay1 +  + lc1 + orst1 + wisc1 + syra1 + wvir1 + col1 + lsu1 + mich1 + bama1 + ucsb1 + usc1;
+ark1 + bay1 +  + lc1 + orst1 + wisc1 + syra1 + wvir1 + col1 + lsu1 + mich1 + bama1 + ucsb1 + usc1 + ore1;
 var sheaScore = 
-fla1 + ark1 + ill1 + bay1 + okst1 + hou1 + wvir1 + vill1 + col1 + flst1 + kan1 + lsu1 + mich1 + bama1 + crei1 + usc1;
+fla1 + ark1 + ill1 + bay1 + okst1 + hou1 + wvir1 + vill1 + col1 + flst1 + kan1 + lsu1 + mich1 + bama1 + crei1 + usc1 + iowa1;
 var leviScore = 
-fla1 + ark1 + ill1 + bay1 + orst1 + okst1 + wisc1 + ntex1 + wvir1 + vill1 + flst1 + kan1 + mich1 + bama1 + ucsb1 + drake1;
+fla1 + ark1 + ill1 + bay1 + orst1 + okst1 + wisc1 + ntex1 + wvir1 + vill1 + flst1 + kan1 + mich1 + bama1 + ucsb1 + drake1 + iowa1 + ore1;
 
 
 var ndavid = davidScore.toFixed(2);
