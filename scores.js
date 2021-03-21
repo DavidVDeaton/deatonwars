@@ -127,6 +127,7 @@ var tt1 = participants/5;
 var oral1 = participants/1;
 var bay1 = participants/17;
 var lc1 = participants/8;
+var lc2 = participants/2
 var orst1 = participants/7;
 var okst1 = participants/14;
 var wisc1 = participants/9;
@@ -184,9 +185,9 @@ fla1 + ark1 + ill1 + tt1 + bay1 + lc1 + okst1 + hou1 + wvir1 + vill1 + col1 + fl
 var dennisScore = 
 ark1 + ill1 + bay1 + lc1 + okst1 + wisc1 + hou1 + rut1 + syra1 + col1 + flst1 + kan1 + lsu1 + mich1 + bama1 + crei1 + drake1 + iowa1 + ore1 + mary1 + gonz1 + tex1;
 var susanScore = 
-fla1 + ark1 + ill1 + bay1 + lc1 + orst1 + okst1 + hou1 + wvir1 + vill1 + col1 + flst1 + kan1 + lsu1 + mich1 + bama1 + crei1 + usc1 + ore1 + mary1 + ou1 + gonz1 + tex1;
+fla1 + ark1 + ill1 + bay1 + lc1 + orst1 + okst1 + hou1 + wvir1 + vill1 + col1 + flst1 + kan1 + lsu1 + mich1 + bama1 + crei1 + usc1 + ore1 + mary1 + ou1 + gonz1 + tex1 + lc2;
 var suzyScore = 
-ark1 + bay1 +  + lc1 + orst1 + wisc1 + syra1 + wvir1 + col1 + lsu1 + mich1 + bama1 + ucsb1 + usc1 + ore1 + ohio1 + mary1 + gonz1 + ucla1 + ac1;
+ark1 + bay1 +  + lc1 + orst1 + wisc1 + syra1 + wvir1 + col1 + lsu1 + mich1 + bama1 + ucsb1 + usc1 + ore1 + ohio1 + mary1 + gonz1 + ucla1 + ac1 + lc2;
 var sheaScore = 
 fla1 + ark1 + ill1 + bay1 + okst1 + hou1 + wvir1 + vill1 + col1 + flst1 + kan1 + lsu1 + mich1 + bama1 + crei1 + usc1 + iowa1 + mary1 + ou1 + gonz1 + tex1 + ucla1;
 var leviScore = 
