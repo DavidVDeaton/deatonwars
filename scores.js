@@ -122,7 +122,7 @@ var participants = 17;
 
 var fla1 = participants/11;
 var ark1 = participants/15;
-var ark2 = 0;
+var ark2 = participants/8;
 var ill1 = participants/16;
 var tt1 = participants/5;
 var tt2 = 0;
