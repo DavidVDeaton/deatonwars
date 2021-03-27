@@ -180,6 +180,7 @@ var ucla1 = participants/7;
 var ucla2 = participants/3;
 var tex1 = 0;
 var ac1 = participants/2;
+var orst3 = participants
 
 
 var davidScore = 
@@ -197,11 +198,11 @@ ark1 + ill1 + bay1 + okst1 + wisc1 + hou1 + rut1 + syra1 + wvir1 + vill1 + flst1
 var hyrumScore = 
 fla1 + ark1 + ill1 + tt1 + bay1 + lc1 + okst1 + hou1 + wvir1 + vill1 + col1 + flst1 + kan1 + lsu1 + mich1 + bama1 + crei1 + usc1 + iowa1 + ore1 + gonz1 + tex1 + bay2 + wvir2 + ark2 + hou2 + nova2 + iowa2 + gonz2 + mich2 + col2 + bama2 + kan2;
 var paigeScore = 
-fla1 + ark1 + ill1 + bay1 + orst1 + hou1 + ntex1 + syra1 + wvir1 + vill1 + col1 + kan1 + lsu1 + mich1 + bama1 + ucsb1 + usc1 + iowa1 + ore1 + mary1 + ou1 + gonz1 + tex1 + ucla1 + bay2 + syra2 + hou2 + orst2 + iowa2 + ou2 + lsu2 + bama2 + kan2;
+fla1 + ark1 + ill1 + bay1 + orst1 + hou1 + ntex1 + syra1 + wvir1 + vill1 + col1 + kan1 + lsu1 + mich1 + bama1 + ucsb1 + usc1 + iowa1 + ore1 + mary1 + ou1 + gonz1 + tex1 + ucla1 + bay2 + syra2 + hou2 + orst2 + iowa2 + ou2 + lsu2 + bama2 + kan2 + orst3;
 var mattScore =  
 ark1 + ill1 + tt1 + bay1 + hou1 + ntex1 + rut1 + wvir1 + vill1 + flst1 + kan1 + mich1 + bama1 + crei1 + usc1 + ohio1 + gonz1 + tex1 + bay2 + tt2 + hou2 + nova2 + gonz2 + crei2 + mich2 + fsu2 + usc2;
 var reedScore = 
-fla1 + ark1 + ill1 + tt1 + bay1 + oral1 + oral1 + orst1 + okst1 + wisc1 + hou1 + col1 + flst1 + kan1 + lsu1 + mich1 + bama1 + ucsb1 + usc1 + iowa1 + ohio1 + gonz1 + tex1 + ucla1 + ark2 + hou2 + orst2 + gonz2 + ohio2 + lsu2 + col2 + kan2;
+fla1 + ark1 + ill1 + tt1 + bay1 + oral1 + oral1 + orst1 + okst1 + wisc1 + hou1 + col1 + flst1 + kan1 + lsu1 + mich1 + bama1 + ucsb1 + usc1 + iowa1 + ohio1 + gonz1 + tex1 + ucla1 + ark2 + hou2 + orst2 + gonz2 + ohio2 + lsu2 + col2 + kan2 + orst3;
 var katieScore = 
 fla1 + ark1 + ill1 + bay1 + okst1 + wisc1 + hou1 + rut1 + syra1 + wvir1 + vill1 + col1 + flst1 + kan1 + lsu1 + mich1 + bama1 + crei1 + usc1 + iowa1 + ore1 + ou1 + gonz1 + tex1 + ucla1 + bay2 + wvir2 + ark2 + hou2 + iowa2 + gonz2 + mich2 + col2 + kan2;
 var noahScore = 
