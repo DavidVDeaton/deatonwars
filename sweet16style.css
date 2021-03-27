@@ -26,33 +26,33 @@
     background-position-x: center;    
 }
 
-/* #h5 {
-    background-image: url("assets/houston.png");
+#h5 {
+    background-image: url("assets/zags.png");
     background-repeat: no-repeat;
     background-size: contain;
     background-position-x: center;    
 }
 
 #h6 {
-    background-image: url("assets/florida.png");
+    background-image: url("assets/mich.png");
     background-repeat: no-repeat;
     background-size: contain;
     background-position-x: center;    
 }
 
 #h7 {
-    background-image: url("assets/nova.png");
+    background-image: url("assets/bama.png");
     background-repeat: no-repeat;
     background-size: contain;
     background-position-x: center;    
 }
 
 #h8 {
-    background-image: url("assets/osu.png");
+    background-image: url("assets/usc.png");
     background-repeat: no-repeat;
     background-size: contain;
     background-position-x: center;    
-} */
+}
 
 #a1 {
     background-image: url("assets/nova.png");
@@ -82,30 +82,30 @@
     background-position-x: center;    
 }
 
-/* #a5 {
-    background-image: url("assets/rutgers.png");
+#a5 {
+    background-image: url("assets/creighton.png");
     background-repeat: no-repeat;
     background-size: contain;
     background-position-x: center;    
 }
 
 #a6 {
-    background-image: url("assets/oralroberts.png");
+    background-image: url("assets/fsu.png");
     background-repeat: no-repeat;
     background-size: contain;
     background-position-x: center;    
 }
 
 #a7 {
-    background-image: url("assets/notexas.png");
+    background-image: url("assets/ucla.png");
     background-repeat: no-repeat;
     background-size: contain;
     background-position-x: center;    
 }
 
 #a8 {
-    background-image: url("assets/orst.png");
+    background-image: url("assets/oregon.png");
     background-repeat: no-repeat;
     background-size: contain;
     background-position-x: center;    
-} */
+}

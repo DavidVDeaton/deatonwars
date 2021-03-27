@@ -7,14 +7,14 @@ $("#team6").text("8 Loyola Chicago");
 $("#team7").text("11 Syracuse");
 $("#team8").text("2 Houston");
 
-// $("#team9").text("15 Oral Roberts");
-// $("#team10").text("2 Ohio State");
-// $("#team11").text("16 Hartford");
-// $("#team12").text("1 Baylor");
-// $("#team13").text("9 Georgia Tech");
-// $("#team14").text("8 Loyola Chicago");
-// $("#team15").text("12 Oregon State");
-// $("#team16").text("5 Tennessee");
+$("#team9").text("5 Creighton");
+$("#team10").text("1 Gonzaga");
+$("#team11").text("7 Oregon");
+$("#team12").text("6 USC");
+$("#team13").text("1 Michigan");
+$("#team14").text("4 Florida State");
+$("#team15").text("11 UCLA");
+$("#team16").text("2 Alabama");
 
 var david = $("<img>", {
     class: "small-circle",
