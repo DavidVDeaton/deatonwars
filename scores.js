@@ -185,7 +185,7 @@ var nova3 = 0;
 var bay3 = (participants*2)/8;
 var ark3 = (participants*2)/3;
 var syra3 = 0;
-var hou3 = 0;
+var hou3 = (participants*2)/10;
 
 
 
