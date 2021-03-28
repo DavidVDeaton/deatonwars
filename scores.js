@@ -188,14 +188,11 @@ var syra3 = 0;
 var hou3 = (participants*2)/10;
 var gonz3 = (participants*2)/12;
 var fsu3 = 0;
-var mich3 = 0;
+var mich3 = (participants*2)/7;
 var ucla3 = 0;
 var bama3 = 0;
 var ore3 = 0;
 var usc3 = 0;
-
-
-
 
 
 var davidScore = 
