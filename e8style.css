@@ -1,0 +1,55 @@
+#h1 {
+    background-image: url("assets/baylor.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;    
+}
+
+#h2 {
+    background-image: url("assets/zags.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;    
+}
+
+#h3 {
+    background-image: url("assets/houston.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;    
+}
+
+/* #h4 {
+    background-image: url("assets/houston.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;    
+} */
+
+#a1 {
+    background-image: url("assets/arkansas.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;    
+}
+
+/* #a2 {
+    background-image: url("assets/oralroberts.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;    
+} */
+
+#a3 {
+    background-image: url("assets/orst.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;    
+}
+
+/* #a4 {
+    background-image: url("assets/syracuse.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;    
+} */
