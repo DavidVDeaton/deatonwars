@@ -192,7 +192,7 @@ var mich3 = (participants*2)/7;
 var ucla3 = participants;
 var bama3 = 0;
 var ore3 = 0;
-var usc3 = 0;
+var usc3 = participants*2;
 
 
 var davidScore = 

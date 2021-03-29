@@ -19,12 +19,12 @@
     background-position-x: center;    
 }
 
-/* #h4 {
-    background-image: url("assets/houston.png");
+#h4 {
+    background-image: url("assets/mich.png");
     background-repeat: no-repeat;
     background-size: contain;
     background-position-x: center;    
-} */
+}
 
 #a1 {
     background-image: url("assets/arkansas.png");
@@ -33,12 +33,12 @@
     background-position-x: center;    
 }
 
-/* #a2 {
-    background-image: url("assets/oralroberts.png");
+#a2 {
+    background-image: url("assets/usc.png");
     background-repeat: no-repeat;
     background-size: contain;
     background-position-x: center;    
-} */
+}
 
 #a3 {
     background-image: url("assets/orst.png");
@@ -47,9 +47,9 @@
     background-position-x: center;    
 }
 
-/* #a4 {
-    background-image: url("assets/syracuse.png");
+#a4 {
+    background-image: url("assets/ucla.png");
     background-repeat: no-repeat;
     background-size: contain;
     background-position-x: center;    
-} */
+}
