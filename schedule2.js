@@ -17,103 +17,103 @@ $("#team15").text("11 UCLA");
 $("#team16").text("2 Alabama");
 
 var david = $("<img>", {
-    class: "small-circle",
+    class: "med-circle",
     alt: "David",
     src: "assets/profile/david.jpg"
 });
 
 var dave = $("<img>", {
-    class: "small-circle",
+    class: "med-circle",
     alt: "Dave",
     src: "assets/profile/dave.jpg"
 });
 
 var april = $("<img>", {
-    class: "small-circle",
+    class: "med-circle",
     alt: "April",
     src: "assets/profile/april.jpg"
 });
 
 var caleb = $("<img>", {
-    class: "small-circle",
+    class: "med-circle",
     alt: "Caleb",
     src: "assets/profile/caleb.jpg"
 });
 
 var ethan = $("<img>", {
-    class: "small-circle",
+    class: "med-circle",
     alt: "Ethan",
     src: "assets/profile/ethan.png"
 });
 
 var katie = $("<img>", {
-    class: "small-circle",
+    class: "med-circle",
     alt: "Katie",
     src: "assets/profile/katie.jpg"
 });
 
 var matt = $("<img>", {
-    class: "small-circle",
+    class: "med-circle",
     alt: "Katie",
     src: "assets/profile/matt.jpg"
 });
 
 var paige = $("<img>", {
-    class: "small-circle",
+    class: "med-circle",
     alt: "Paige",
     src: "assets/profile/paige.jpg"
 });
 
 var noah = $("<img>", {
-    class: "small-circle",
+    class: "med-circle",
     alt: "Noah",
     src: "assets/profile/noah.jpg"
 });
 
 var reed = $("<img>", {
-    class: "small-circle",
+    class: "med-circle",
     alt: "Reed",
     src: "assets/profile/reed.jpg"
 });
 
 var dennis = $("<img>", {
-    class: "small-circle",
+    class: "med-circle",
     alt: "Dennis",
     src: "assets/profile/dennis.jpg"
 });
 
 var susan = $("<img>", {
-    class: "small-circle",
+    class: "med-circle",
     alt: "Susan",
     src: "assets/profile/susan.png"
 });
 
 var hyrum = $("<img>", {
-    class: "small-circle",
+    class: "med-circle",
     alt: "Hyrum",
     src: "assets/profile/hyrum2.jpg"
 });
 
 var levi = $("<img>", {
-    class: "small-circle",
+    class: "med-circle",
     alt: "Levi",
     src: "assets/profile/levi2.jpg"
 });
 
 var rachel = $("<img>", {
-    class: "small-circle",
+    class: "med-circle",
     alt: "Rachel",
     src: "assets/profile/rachel.jpg"
 });
 
 var shea = $("<img>", {
-    class: "small-circle",
+    class: "med-circle",
     alt: "Shea",
     src: "assets/profile/shea.png"
 });
 
 var suzy = $("<img>", {
-    class: "small-circle",
+    class: "med-circle",
     alt: "Suzy",
     src: "assets/profile/suzy.jpg"
 });

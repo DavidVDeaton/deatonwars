@@ -1,0 +1,27 @@
+#h1 {
+    background-image: url("assets/baylor.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;    
+}
+
+#h2 {
+    background-image: url("assets/zags.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;    
+}
+
+#a1 {
+    background-image: url("assets/houston.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;    
+}
+
+#a2 {
+    background-image: url("assets/ucla.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;    
+}
