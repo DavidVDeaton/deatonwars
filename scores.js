@@ -198,10 +198,9 @@ var hou4 = (participants*2)/3;
 var ark4 = 0;
 var bay4 = (participants*2)/6;
 var gonz4 = (participants*2)/8;
-var ucla4 = 0;
-// var ucla4 = participants
+var ucla4 = participants
 var mich4 = 0;
-// var mich4 = (participants*2)/5;
+
 
 
 var davidScore = 
