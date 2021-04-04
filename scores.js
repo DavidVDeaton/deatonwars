@@ -203,12 +203,9 @@ var mich4 = 0;
 var bay5 = (participants*3)/4;
 var bay6 = 0;
 // var bay6 = participants;
-// var gonz5 = (participants*3)/8;
-var gonz5 = 0;
+var gonz5 = (participants*3)/8;
 // var gonz6 = (participants*3)/5;
 var gonz6 = 0;
-// var ucla5 = participants*3;
-// var ucla6 = participants*3;
 var ucla5 = 0;
 var ucla6 = 0;
 
